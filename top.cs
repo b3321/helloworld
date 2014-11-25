@@ -44,7 +44,7 @@ namespace Sample1
             C.Show();
             this.Visible = false;
         }
-
+//not compleate
         private void Top_page_Load(object sender, EventArgs e)
         {
 
